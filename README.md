@@ -5,6 +5,7 @@
 :cloud: I’m learning Google Cloud Platform
 :love_letter: How to reach me: 
 [Email]: magdalenaclapa.contact@gmail.com
+:linkedin:
 [LinkedIn]: (https://www.linkedin.com/in/magdalenaclapa/)
 :princess: Pronouns: she/her
 
